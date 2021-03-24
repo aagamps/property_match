@@ -1,6 +1,6 @@
 # property_match
 
-Used Technologies:
+# Used Technologies:
 
 Kotlin,
 MVVM,
@@ -12,6 +12,6 @@ RxJava,
 Jetpack,
 Material Design
 
-Usecase:
+# Usecase:
 
 This app is made to check availability of facilities on required property or vice-versa.
