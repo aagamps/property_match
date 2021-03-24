@@ -69,8 +69,10 @@ class ScrollingActivity : DaggerAppCompatActivity(), SwipeRefreshLayout.OnRefres
         ViewCompat.setNestedScrollingEnabled(rvFacilityList, false)
     }
 
-    private val propertyLiveDataObserver = Observer<PropertyMatchDto.Response> { response ->
+    private val propertyLiveDataObserver = Observer<PropertyMatchDto.Response> {
+        viewModel.getFacilityList()
         viewModel.getOptionsList()
+        viewModel.getExclusionsList()
     }
 
     private val propertyOptionsObserver =
