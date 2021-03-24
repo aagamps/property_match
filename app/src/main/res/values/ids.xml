@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rvFacilityList" type="id" />
+    <item name="tvVarietyName" type="id" />
+    <item name="tvVarietyCost" type="id" />
+    <item name="tvVarietyApproxCost" type="id" />
+    <item name="tvDateOfArrival" type="id" />
+    <item name="tvMarketName" type="id" />
+    <item name="tvLocation" type="id" />
+    <item name="tapToRetryView" type="id" />
+    <item name="tapToRetryImage" type="id" />
+    <item name="tapToRetryMessage" type="id" />
+    <item name="progressBarView" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="swipeToRefreshView" type="id" />
+    <item name="tvHeader" type="id" />
+    <item name="bottomSheet" type="id" />
+    <item name="btnClose" type="id" />
+    <item name="viewPager" type="id" />
+    <item name="tabLayout" type="id" />
+    <item name="upperLayout" type="id" />
+    <item name="middleLayout" type="id" />
+    <item name="rvLocation" type="id" />
+    <item name="sortingLayout" type="id" />
+    <item name="rbLTH" type="id" />
+    <item name="rbHTL" type="id" />
+    <item name="rbOTL" type="id" />
+    <item name="rbLTO" type="id" />
+    <item name="rbgDate" type="id" />
+    <item name="rbgPrice" type="id" />
+    <item name="cbLocation" type="id" />
+    <item name="ivFliter" type="id" />
+    <item name="tvError" type="id" />
+    <item name="chipGroup" type="id" />
+</resources>
